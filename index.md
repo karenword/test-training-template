@@ -284,7 +284,7 @@ for more information.
 </div>
 
 
-FOUR DAY SCHEDULE
+FOUR DAY SCHEDULE!
 
 <div class="row">
   <div class="col-md-6">
