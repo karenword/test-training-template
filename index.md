@@ -242,22 +242,6 @@ for more information.
 
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
-<p>
-  Please see <a href="{{ site.training_site }}">the Instructor Training Curriculum</a> for course material and sample schedule for a 2-day event.
-</p>
-
-
-<hr/>
-
-<!--
-NOTE: This space can be customized to reflect the unique schedule of your workshop. If you would like it to display, 
-adjust the times and titles, then delete the characters above and below that serve to comment it out.
--->
-  
-<!--
-TWO DAY SCHEDULE
---->
-<!--
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1</h3>
@@ -299,13 +283,9 @@ TWO DAY SCHEDULE
   </div>
 </div>
 
--->
 
-
-<!--
 FOUR DAY SCHEDULE
---->
-<!--
+
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1</h3>
@@ -357,7 +337,7 @@ FOUR DAY SCHEDULE
   </div>
 </div>
 
--->
+
 
 
 <!--
