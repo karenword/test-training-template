@@ -308,6 +308,7 @@ FOUR DAY SCHEDULE
       <tr> <td>15:30</td> <td>Teaching Is a Skill </td> </tr>
       <tr> <td>16:30</td> <td>Wrap-up and Homework </td> </tr>
       <tr> <td>16:50</td> <td>Finish day 2</td> </tr>
+      <tr> <td></td> <td></td> </tr>
     </table>
   </div>
   <div class="col-md-6">
